@@ -1,131 +1,112 @@
+<html>
 <head>
 <style>
-#f {
-	font-family:	"iA Writer Duospace";
+	@font-face {
+	font-family:	iaWriterDuospace;
 	font-weight:	normal;
 	font-style:	normal;
 	src: url("ft/iAWriterDuospace-Regular.eot") format("embedded-opentype"),
 	url("ft/iAWriterDuospace-Regular.woff2") format("woff2"),
 	url("ft/iAWriterDuospace-Regular.woff") format("woff");
-}
-
-#fi {
-	font-family:	"iA Writer Duospace";
+	}
+	@font-face {
+	font-family:	iaWriterDuospace;
 	font-weight:	normal;
 	font-style:	italic;
 	src: url("ft/iAWriterDuospace-Italic.eot") format("embedded-opentype"),
 	url("ft/iAWriterDuospace-Italic.woff2") format("woff2"),
 	url("ft/iAWriterDuospace-Italic.woff") format("woff");
-}
-
-#fb {
-	font-family:	"iA Writer Duospace";
+	}
+	@font-face {
+	font-family:	iaWriterDuospace;
 	font-weight:	bold;
 	font-style:	normal;
 	src: url("ft/iAWriterDuospace-Bold.eot") format("embedded-opentype"),
 	url("ft/iAWriterDuospace-Bold.woff2") format("woff2"),
 	url("ft/iAWriterDuospace-Bold.woff") format("woff");
-}
-
-#fbi {
-	font-family:	"iA Writer Duospace";
+	}
+	@font-face {
+	font-family:	iaWriterDuospace;
 	font-weight:	bold;
 	font-style:	italic;
 	src: url("ft/iAWriterDuospace-BoldItalic.eot") format("embedded-opentype"),
 	url("ft/iAWriterDuospace-BoldItalic.woff2") format("woff2"),
 	url("ft/iAWriterDuospace-BoldItalic.woff") format("woff");
-}
-
-main {
-	font-family:	monospace, monospace;
+	}
+	main {
+	font-family:	monospace,monospace;
 	max-width:	38rem;
 	padding:	2rem;
 	margin:		auto;
-}
-
-@media only screen and (max-device-width: 736px) {
-main {
+	}
+	@media only screen and (max-device-width: 736px) {
+	main {
 	padding:	0rem;
-}
-}
-
-::selection {
-	background:	#d3869b;
-}
-
-body {
+	}
+	}
+	::selection {
+	background:	#ebdbb2;
+	color:		#282828;
+	}
+	body {
+	font-family: iaWriterDuospace;
 	background:	#282828;
 	color:		#ebdbb2;
-}
-
-pre {
+	}
+	pre {
 	background-color:	#3c3836;
 	padding:	1em;
 	border:		0;
-}
-
-a, a:active, a:visited {
+	}
+	a, a:active, a:visited {
 	color:		#b16286;
 	background-color:	#1d2021;
-}
-
-h1, h2, h3, h4, h5 {
+	}
+	h1, h2, h3, h4, h5 {
 	margin-bottom:	.1rem;
-}
-
-blockquote {
+	}
+	blockquote {
 	border-left: 1px solid #bdae93;
 	margin: 0.5em 10px;
 	padding: 0.5em 10px;
-}
-
-footer {
+	}
+	footer {
 	align: center;
-}
-
-@media (prefers-color-scheme: light) {
-body {
+	}
+	@media (prefers-color-scheme: light) {
+	body {
 	background: #fbf1c7;
 	color:      #3c3836;
-}
-
-pre {
+	}
+	pre {
 	background-color: #ebdbb2;
 	padding: 1em;
 	border: 0;
-}
-
-a, a:active, a:visited {
+	}
+	a, a:active, a:visited {
 	color: #b16286;
 	background-color: #f9f5d7;
-}
-
-h1, h2, h3, h4, h5 {
+	}
+	h1, h2, h3, h4, h5 {
 	margin-bottom: .1rem;
-}
-
-blockquote {
+	}
+	blockquote {
 	border-left: 1px solid #655c54;
 	margin: 0.5em 10px;
 	padding: 0.5em 10px;
-}
-}
+	}
 </style>
 </head>
-
 <body>
-<div id="f">
 	<h1> This is a header </h1>
 	<p> This is a paragraph</p>
 	<p><i> This is a paragraph</i></p>
 	<p><b> This is a paragraph</b></p>
 	<p><b><i> This is a paragraph</i></b></p>
 	<figure>
-		<figcaption><code>img</code>, auto size</figcaption>
 		<div>
 			<img src="sex.svg">
 		</div>
 	</figure>
-
-</div>
 </body>
+</html>
