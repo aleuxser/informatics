@@ -2,36 +2,16 @@
 <head>
 <style>
 	@font-face {
-	font-family:	iaWriterDuospace;
+	font-family:	duospace;
 	font-weight:	normal;
 	font-style:	normal;
-	src: url("ft/iAWriterDuospace-Regular.eot") format("embedded-opentype"),
-	url("ft/iAWriterDuospace-Regular.woff2") format("woff2"),
-	url("ft/iAWriterDuospace-Regular.woff") format("woff");
+	src: url("duospace.woff2") format("woff2");
 	}
 	@font-face {
-	font-family:	iaWriterDuospace;
-	font-weight:	normal;
-	font-style:	italic;
-	src: url("ft/iAWriterDuospace-Italic.eot") format("embedded-opentype"),
-	url("ft/iAWriterDuospace-Italic.woff2") format("woff2"),
-	url("ft/iAWriterDuospace-Italic.woff") format("woff");
-	}
-	@font-face {
-	font-family:	iaWriterDuospace;
+	font-family:	duospace;
 	font-weight:	bold;
 	font-style:	normal;
-	src: url("ft/iAWriterDuospace-Bold.eot") format("embedded-opentype"),
-	url("ft/iAWriterDuospace-Bold.woff2") format("woff2"),
-	url("ft/iAWriterDuospace-Bold.woff") format("woff");
-	}
-	@font-face {
-	font-family:	iaWriterDuospace;
-	font-weight:	bold;
-	font-style:	italic;
-	src: url("ft/iAWriterDuospace-BoldItalic.eot") format("embedded-opentype"),
-	url("ft/iAWriterDuospace-BoldItalic.woff2") format("woff2"),
-	url("ft/iAWriterDuospace-BoldItalic.woff") format("woff");
+	src: url("duospaceb.woff2") format("woff2");
 	}
 	main {
 	font-family:	monospace,monospace;
@@ -45,13 +25,12 @@
 	}
 	}
 	::selection {
-	background:	#ebdbb2;
-	color:		#282828;
+	background:	#dc9eaf;
 	}
 	body {
-	font-family: iaWriterDuospace;
+	font-family:	duospace;
 	background:	#282828;
-	color:		#ebdbb2;
+	color:		#d3bd97;
 	}
 	pre {
 	background-color:	#3c3836;
@@ -73,33 +52,14 @@
 	footer {
 	align: center;
 	}
-	@media (prefers-color-scheme: light) {
-	body {
-	background: #fbf1c7;
-	color:      #3c3836;
-	}
-	pre {
-	background-color: #ebdbb2;
-	padding: 1em;
-	border: 0;
-	}
-	a, a:active, a:visited {
-	color: #b16286;
-	background-color: #f9f5d7;
-	}
-	h1, h2, h3, h4, h5 {
-	margin-bottom: .1rem;
-	}
-	blockquote {
-	border-left: 1px solid #655c54;
-	margin: 0.5em 10px;
-	padding: 0.5em 10px;
+	#wall {
+		color: #ff0000;
 	}
 </style>
 </head>
 <body>
 	<h1> This is a header </h1>
-	<p> This is a paragraph</p>
+	<p> This is a paragraph	<span style="color:#ff0000">■</span> - wall coloor</p>
 	<p><i> This is a paragraph</i></p>
 	<p><b> This is a paragraph</b></p>
 	<p><b><i> This is a paragraph</i></b></p>
@@ -108,5 +68,6 @@
 			<img src="sex.svg">
 		</div>
 	</figure>
+
 </body>
 </html>
