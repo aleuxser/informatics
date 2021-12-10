@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   max-width="100%"
+   width="auto"
+   max-height="100vh"
+   height="auto"
+   viewBox="0 0 30.028 20.15"
+   version="1.1"
+   id="svg108429"
+   sodipodi:docname="2.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs108433" />
+  <sodipodi:namedview
+     id="namedview108431"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="11.650593"
+     inkscape:cx="12.445718"
+     inkscape:cy="9.3986629"
+     inkscape:window-width="864"
+     inkscape:window-height="535"
+     inkscape:window-x="1056"
+     inkscape:window-y="11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg108429" />
+  <path
+     style="display:inline;fill:#282828;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 30.02,0.15 v 20 h -30 v -20 z"
+     id="path108265" />
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="M 0.509,0.482 H 13.834 V 12.969 H 0.509 Z"
+     id="path108267" />
+  <path
+     d="m 30.02,1.15 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1.001 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1 h -30 m 30,1.001 h -30 M 29.018,0.15 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1.001,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1.001,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1,-20 v 20 m -1.001,-20 v 20 m -1,-20 v 20 m -1,-20 v 20"
+     style="display:inline;fill:none;stroke:#776b60;stroke-width:0.0529167px;stroke-opacity:1"
+     id="path108269" />
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;stroke:none;stroke-width:0.399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1.015,16.152 h 6.001 v 3 H 1.015 Z"
+     id="path108271" />
+  <g
+     style="font-size:2.11667px;line-height:1.25;font-family:'Material Design Icons';-inkscape-font-specification:'Material Design Icons';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108275"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 45.48,16.03 v 1.322 q 0,0.074 0.049,0.128 0.054,0.05 0.128,0.05 v 0.087 h 0.178 V 17.53 h 0.306 v -1.674 h -0.484 q -0.074,0 -0.128,0.053 -0.05,0.05 -0.05,0.12 z m 0.355,0.528 h 0.173 v 0.265 h -0.173 z m 0.88,-0.702 h -0.483 v 1.674 h 0.306 v 0.087 h 0.177 V 17.53 q 0.075,0 0.124,-0.05 0.054,-0.054 0.054,-0.128 V 16.03 q 0,-0.07 -0.054,-0.12 -0.05,-0.053 -0.124,-0.053 z m -0.177,0.967 h -0.174 v -0.265 h 0.174 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(57.443,191.91)"
+       aria-label="󰾐"
+       id="path108273" />
+  </g>
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 21.65,0.497 h 3.581 V 4.804 H 21.65 Z"
+     id="path108277" />
+  <path
+     id="rect108279"
+     style="display:inline;fill:#a9b665;stroke:#000000;stroke-width:0;paint-order:stroke fill markers"
+     d="m 11.016,9.651 h 2 v 2.5 h -2 z" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 30.02,0.3 h -30 V 0 h 30 z m 0,19.85 h -30 v -0.3 h 30 z"
+     id="path108281" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="M 29.728,19.85 V 0.3 h 0.289 V 19.85 Z M 0.013,14.151 V 0.149 H 0.326 V 14.151 Z M 25.428,5.15 V 0.299 h 0.3 V 5.15 Z"
+     id="path108283" />
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 13.199,16.634 h 3.472 v 3.021 h -3.472 z"
+     id="path108285" />
+  <path
+     style="display:inline;fill:#7daea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 29.728,0 v 0.3 h -2 V 0 Z m -2.71,0 v 0.3 h -1.29 V 0 Z m -1.59,0 v 0.3 h -2 V 0 Z m -2.711,0 v 0.3 h -1.29 V 0 Z m 7.011,19.85 v 0.3 h -2 v -0.3 z m -2.71,0 v 0.3 h -1.29 v -0.3 z m -1.59,0 v 0.3 h -2 v -0.3 z m -2.711,0 v 0.3 h -1.29 v -0.3 z M 21.153,0 v 0.3 h -2 V 0 Z M 15.73,0 V 0.3 H 14.309 V 0 Z m -4.714,0 v 0.3 h -2 V 0 Z m -3,0 v 0.3 h -2 V 0 Z M 5.015,0 v 0.3 h -2 V 0 Z M 2.326,0 v 0.3 h -2 V 0 Z"
+     id="path108287" />
+  <g
+     aria-label="1"
+     id="text108291"
+     style="font-weight:700;font-size:1.5875px;line-height:1.25;font-family:'iA Writer Duospace';-inkscape-font-specification:'iA Writer Duospace Bold';display:inline;fill:#ea6962;stroke-width:0.264583"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 110.55565,203.75191 h 0.28257 v -0.70326 l -0.25717,0.14129 -0.0905,-0.17145 0.33496,-0.18256 h 0.25083 v 0.91598 h 0.25082 v 0.19209 h -0.77152 z"
+       id="path108493" />
+  </g>
+  <path
+     style="display:inline;fill:#d3869b;fill-opacity:1;stroke:#776b60;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     d="m 14.016,12.151 h -1 v 1 h 1 z"
+     id="path108293" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="M 0,19.85 V 16.152 H 0.339 V 19.85 Z"
+     id="path108295" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 10.016,11.151 v 1 h -2 v -1 z"
+     id="path108297" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1.015,1.15 h 12.001 v 1 H 1.015 Z m 1,2 h 5.001 v 1 H 2.015 Z m 0,2 h 5.001 v 1 H 2.015 Z m 0,2.001 h 5.001 v 1 H 2.015 Z"
+     id="path108299" />
+  <g
+     aria-label="󰄐"
+     id="text108303"
+     style="font-weight:700;font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop Bold';display:inline;fill:#282828;stroke-width:0.264583"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 107.18351,198.11656 q -0.0558,0 -0.0961,0.0403 -0.0372,0.0372 -0.0372,0.093 0,0.0527 0.0372,0.0899 0.0403,0.0403 0.093,0.0403 0.0558,0 0.093,-0.0403 0.0403,-0.0372 0.0403,-0.0899 0,-0.0558 -0.0403,-0.093 -0.0372,-0.0403 -0.0899,-0.0403 z m -1.0604,-1.05729 v 0.13022 h 0.13333 l 0.23874,0.50229 -0.0899,0.16434 q -0.0155,0.0279 -0.0155,0.062 0,0.0558 0.0372,0.0961 0.0403,0.0372 0.093,0.0372 h 0.79375 v -0.13332 h -0.76585 q -0.006,0 -0.0124,-0.003 -0.003,-0.006 -0.003,-0.0124 0,-0.006 0.003,-0.009 l 0.0589,-0.10852 h 0.49299 q 0.0372,0 0.0682,-0.0186 0.031,-0.0186 0.0465,-0.0496 l 0.23565,-0.42788 q 0.009,-0.0186 0.009,-0.031 0,-0.0279 -0.0186,-0.0465 -0.0186,-0.0217 -0.0465,-0.0217 h -0.97979 l -0.062,-0.13022 z m 0.39688,1.05729 q -0.0527,0 -0.093,0.0403 -0.0372,0.0372 -0.0372,0.093 0,0.0527 0.0372,0.0899 0.0403,0.0403 0.093,0.0403 0.0558,0 0.093,-0.0403 0.0403,-0.0372 0.0403,-0.0899 0,-0.0558 -0.0403,-0.093 -0.0372,-0.0403 -0.093,-0.0403 z"
+       id="path108496" />
+  </g>
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 8.016,3.15 h 4 v 1 h -4 z m 0,2 h 4 v 1 h -4 z m 0,2.001 h 4 v 1 h -4 z"
+     id="path108305" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 7.015,11.151 v 1 h -2 v -1 z m -3,0 v 1 h -2 v -1 z"
+     id="path108307" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 27.018,5 h 2.71 v 0.3 h -2.71 z"
+     id="path108309" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="M 21.153,5.3 V 0.299 h 0.3 V 5.3 Z"
+     id="path108311" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 23.017,5 h 2.71 v 0.3 h -2.71 z m -7,0 h 5.137 v 0.3 h -5.137 z"
+     id="path108313" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="M 25.428,12.301 V 7.45 h 0.3 v 4.851 z"
+     id="path108315" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 27.018,12.151 h 2.71 v 0.3 h -2.71 z"
+     id="path108317" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="M 21.153,12.301 V 7.45 h 0.3 v 4.851 z"
+     id="path108319" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 23.017,12.141 h 2.711 v 0.32 h -2.711 z"
+     id="path108321" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="M 16.853,12.454 V 7.451 h 0.3 v 5.003 z M 8.016,19.85 v -3.698 h 0.3 v 3.698 z m 4.7,0 v -3.698 h 0.3 v 3.698 z"
+     id="path108323" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 15.016,16.152 h 1.836 v 0.3 h -1.836 z m 3.283,-4.015 h 3.154 v 0.329 h -3.154 z"
+     id="path108325" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 25.428,14.852 v 5.001 h 0.3 v -5.001 z"
+     id="path108327" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 27.018,15.152 h 2.71 v -0.3 h -2.71 z"
+     id="path108329" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 21.153,14.852 v 5.001 h 0.3 v -5.001 z"
+     id="path108331" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 23.017,15.152 h 2.427 v -0.3 h -2.427 z"
+     id="path108333" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 16.853,14.852 v 5.001 h 0.3 v -5.001 z"
+     id="path108335" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 19.017,15.152 h 2.136 v -0.3 h -2.136 z"
+     id="path108337" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 25.428,7.151 h 4.3 v 0.3 h -4.3 z"
+     id="path108339" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 21.153,7.151 h 4.3 v 0.3 h -4.3 z m -4.3,0 h 4.3 v 0.3 h -4.3 z"
+     id="path108341" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="M 14.024,13.463 V 0.3 h 0.285 v 13.163 z"
+     id="path108343" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 3.015,13.151 h 11.001 v 0.318 H 3.015 Z"
+     id="path108345" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2.015,9.151 h 5.001 v 1 H 2.015 Z m 6.001,0 h 2 v 1 h -2 z"
+     id="path108347" />
+  <path
+     style="display:inline;fill:#d3bd97;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 10.341,16.152 h 2.375 v 0.3 h -2.375 z"
+     id="path108349" />
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 25.925,0.497 h 3.607 v 4.307 h -3.607 z m -11.419,0 h 6.451 v 4.307 h -6.451 z"
+     id="path108351" />
+  <g
+     style="font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108355"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 162.78,66.367 -0.729,0.397 0.729,0.397 0.595,-0.326 v 0.459 h 0.133 v -0.53 z m -0.462,0.673 v 0.266 l 0.462,0.252 0.462,-0.252 V 67.04 l -0.462,0.254 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-35.438,126.682)"
+       aria-label="󰑴"
+       id="path108353" />
+  </g>
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 25.925,7.647 h 3.607 v 4.307 h -3.607 z"
+     id="path108357" />
+  <g
+     style="font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108361"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 162.78,66.367 -0.729,0.397 0.729,0.397 0.595,-0.326 v 0.459 h 0.133 v -0.53 z m -0.462,0.673 v 0.266 l 0.462,0.252 0.462,-0.252 V 67.04 l -0.462,0.254 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-35.438,133.833)"
+       aria-label="󰑴"
+       id="path108359" />
+  </g>
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 21.624,7.647 h 3.607 v 4.307 h -3.607 z"
+     id="path108363" />
+  <g
+     style="font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108367"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 162.78,66.367 -0.729,0.397 0.729,0.397 0.595,-0.326 v 0.459 h 0.133 v -0.53 z m -0.462,0.673 v 0.266 l 0.462,0.252 0.462,-0.252 V 67.04 l -0.462,0.254 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-39.738,133.833)"
+       aria-label="󰑴"
+       id="path108365" />
+  </g>
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 17.35,7.647 h 3.607 v 4.307 H 17.35 Z"
+     id="path108369" />
+  <g
+     style="font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108373"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 162.78,66.367 -0.729,0.397 0.729,0.397 0.595,-0.326 v 0.459 h 0.133 v -0.53 z m -0.462,0.673 v 0.266 l 0.462,0.252 0.462,-0.252 V 67.04 l -0.462,0.254 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-44.013,133.833)"
+       aria-label="󰑴"
+       id="path108371" />
+  </g>
+  <g
+     style="font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108377"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 162.78,66.367 -0.729,0.397 0.729,0.397 0.595,-0.326 v 0.459 h 0.133 v -0.53 z m -0.462,0.673 v 0.266 l 0.462,0.252 0.462,-0.252 V 67.04 l -0.462,0.254 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-39.725,126.682)"
+       aria-label="󰑴"
+       id="path108375" />
+  </g>
+  <g
+     style="font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108381"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 162.78,66.367 -0.729,0.397 0.729,0.397 0.595,-0.326 v 0.459 h 0.133 v -0.53 z m -0.462,0.673 v 0.266 l 0.462,0.252 0.462,-0.252 V 67.04 l -0.462,0.254 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-45.435,126.682)"
+       aria-label="󰑴"
+       id="path108379" />
+  </g>
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 25.925,15.348 h 3.607 v 4.307 h -3.607 z"
+     id="path108383" />
+  <g
+     style="font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108387"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 162.78,66.367 -0.729,0.397 0.729,0.397 0.595,-0.326 v 0.459 h 0.133 v -0.53 z m -0.462,0.673 v 0.266 l 0.462,0.252 0.462,-0.252 V 67.04 l -0.462,0.254 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-35.438,141.534)"
+       aria-label="󰑴"
+       id="path108385" />
+  </g>
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 21.624,15.348 h 3.607 v 4.307 h -3.607 z"
+     id="path108389" />
+  <g
+     style="font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108393"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 162.78,66.367 -0.729,0.397 0.729,0.397 0.595,-0.326 v 0.459 h 0.133 v -0.53 z m -0.462,0.673 v 0.266 l 0.462,0.252 0.462,-0.252 V 67.04 l -0.462,0.254 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-39.738,141.534)"
+       aria-label="󰑴"
+       id="path108391" />
+  </g>
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 17.35,15.348 h 3.607 v 4.307 H 17.35 Z"
+     id="path108395" />
+  <g
+     style="font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108399"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 162.78,66.367 -0.729,0.397 0.729,0.397 0.595,-0.326 v 0.459 h 0.133 v -0.53 z m -0.462,0.673 v 0.266 l 0.462,0.252 0.462,-0.252 V 67.04 l -0.462,0.254 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-44.013,141.534)"
+       aria-label="󰑴"
+       id="path108397" />
+  </g>
+  <g
+     style="font-weight:700;font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop Bold';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108403"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 162.144,55.359 q 0.056,0 0.093,0.04 0.04,0.037 0.04,0.093 0,0.053 -0.04,0.093 -0.037,0.037 -0.093,0.037 -0.055,0 -0.096,-0.037 -0.037,-0.04 -0.037,-0.093 0,-0.056 0.037,-0.093 0.04,-0.04 0.096,-0.04 z m -0.099,1.32 v -0.396 h -0.198 l 0.17,-0.502 q 0.013,-0.04 0.047,-0.066 0.037,-0.027 0.08,-0.027 0.044,0 0.078,0.027 0.037,0.025 0.05,0.066 l 0.17,0.502 h -0.198 v 0.397 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-47.596,153.12)"
+       aria-label="󰙉"
+       id="path108401" />
+  </g>
+  <path
+     style="display:inline;fill:#776b60;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 8.498,16.634 h 4.036 v 3.021 H 8.498 Z"
+     id="path108405" />
+  <g
+     style="font-weight:700;font-size:1.5875px;line-height:1.25;font-family:'Material Design Icons Desktop';-inkscape-font-specification:'Material Design Icons Desktop Bold';display:inline;fill:#282828;fill-opacity:1;stroke-width:0.264583"
+     id="g108409"
+     transform="translate(-99.614,-190.994)">
+    <path
+       d="m 164.893,59.433 q 0.056,0 0.093,0.04 0.04,0.037 0.04,0.093 0,0.053 -0.04,0.093 -0.037,0.037 -0.093,0.037 -0.056,0 -0.096,-0.037 -0.037,-0.04 -0.037,-0.093 0,-0.056 0.037,-0.093 0.04,-0.04 0.096,-0.04 z m -0.099,0.328 h 0.198 q 0.056,0 0.093,0.04 0.04,0.038 0.04,0.094 v 0.362 h -0.098 v 0.496 h -0.267 v -0.496 h -0.1 v -0.362 q 0,-0.056 0.038,-0.093 0.04,-0.04 0.096,-0.04 z"
+       style="fill:#282828;fill-opacity:1"
+       transform="translate(-54.763,149.046)"
+       aria-label="󰙍"
+       id="path108407" />
+  </g>
+  <path
+     style="display:inline;fill:#7daea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 18.017,0 v 0.3 h -2 V 0 Z"
+     id="path108411" />
+  <path
+     style="display:inline;fill:#7daea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 30.017,3.15 h -0.3 v -2 h 0.3 z m 0.011,6.301 h -0.3 v -2 h 0.3 z m -0.011,2.7 h -0.3 v -2 h 0.3 z m 0.011,2.701 h -0.3 v -2 h 0.3 z m 0,2.3 h -0.3 v -2 h 0.3 z m -0.011,2.7 h -0.3 v -2 h 0.3 z M 30.028,7.151 h -0.3 v -1.85 h 0.3 z"
+     id="path108413" />
+  <path
+     style="display:inline;fill:#7daea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 30.028,7.151 h -0.3 v -1.85 h 0.3 z M 30.017,5 h -0.3 V 4.15 h 0.3 z"
+     id="path108415" />
+  <path
+     style="display:inline;fill:#7daea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 21.153,19.85 v 0.3 h -2 v -0.3 z m -2.71,0 v 0.3 h -1.29 v -0.3 z m -1.59,0 v 0.3 h -2 v -0.3 z m -2.547,0 v 0.3 h -1.29 v -0.3 z m -1.754,0 v 0.3 h -2 v -0.3 z m -2.71,0 v 0.3 h -1.29 v -0.3 z M 14.016,0 v 0.3 h -2 V 0 Z"
+     id="path108417" />
+  <path
+     style="display:inline;fill:#7daea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 0.326,11.84 h -0.3 v -2 h 0.3 z m 0,-3.001 h -0.3 v -2 h 0.3 z m 0,-3 h -0.3 v -2 h 0.3 z m 0,-2.689 h -0.3 v -2 h 0.3 z m 0.013,16.002 h -0.3 v -2 h 0.3 z"
+     id="path108419" />
+  <path
+     style="display:inline;fill:#7daea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 3.015,19.85 v 0.3 h -2 v -0.3 z m 3,0 v 0.3 h -2 v -0.3 z"
+     id="path108421" />
+  <path
+     style="display:inline;fill:none;stroke:#e78a4e;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.530005, 0.264999;stroke-dashoffset:0.106;stroke-opacity:1;paint-order:normal"
+     d="M 0.459,0.3 H 14.016 V 13.178 H 0.459 Z"
+     id="path108423" />
+  <path
+     style="display:inline;fill:none;stroke:#ea6962;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 12.016,12.151 v 1 h 1"
+     id="path108425" />
+</svg>
